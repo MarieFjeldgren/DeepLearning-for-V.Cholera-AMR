@@ -1,2 +1,2 @@
 # DeepLearning-for-V.Cholera-AMR
-Trying out AI techniques on V.Cholerae data
+Trying out AI techniques on V.Cholerae data. WIP
